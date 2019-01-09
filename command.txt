@@ -1,0 +1,18 @@
+pwd
+ls
+cd
+mkrid & rmdir
+rm
+touch
+man & --help
+cp
+mv
+locate
+echo
+cat
+nano
+sudo
+df
+du
+uname
+apt-get
